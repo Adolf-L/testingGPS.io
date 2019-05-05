@@ -1,0 +1,11 @@
+{
+	"status": 1,
+	"data": [{
+		"id": 3,
+		"time": "04-26",
+		"title": "【公告】大牛 GPS 已经更新到 v1.8.8啦！",
+		"detail": "大牛 GPS 已经更新到了 v1.8.8, 该版本修复了很多 bugs，快去下载吧。",
+		"url": "https://www.pgyer.com/B0yl"
+		"showPage":"YES"
+	}]
+}
